@@ -1,0 +1,26 @@
+---
+layout:     single
+title:      "Machine Learning Concepts"
+subtitle:   "primitive building blocks"
+navcolor:   "invert"
+date:       2017-11-08
+author:     "Siwei"
+catalog:    true
+tags:
+    - Concept
+    - Machine Learning
+    - Reflection
+---
+
+
+> TL; DR
+
+## Boosting
+
++ AdaBoost
++ Gradient Boosting
++ Newton Boosting
+
+## Attention
+
+## MultiTask(side objective)
