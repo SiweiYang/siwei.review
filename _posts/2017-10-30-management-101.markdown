@@ -1,0 +1,65 @@
+---
+layout:     single
+title:      "Management 101"
+subtitle:   "organization development in action"
+navcolor:   "invert"
+date:       2017-10-30
+author:     "Siwei"
+catalog:    true
+tags:
+    - Management
+    - Reflection
+    - Problem Solving
+---
+
+
+> TL; DR
+
+## defining management
+
+incentive:
+    needs to work
+
+## reflecting on traditional management
+
+traditional:
+    personnel centric
+    position centric
+    project centric
+
+modern:
+    priority
+    deal making
+    naturing
+
+## 5 aspects of management
+
+### Planning: matching resources and objectives
+
+### Workflow: building specializations and coordination
+
+### Organization: defining power and responsibilities
+
+### Strategy: realizing core competences
+
+### Culture: motivating personnel
+
+
+    planning: resources and objective
+    workflow: who does what
+            incentive
+            empowerment
+    organization: power and responsibility
+            professionalism
+            distribution of power
+                    temporary v.s. permanent
+    strategy: core competence
+            potential
+            high value
+            barrier
+            vest extra effort
+    culture
+            influencer
+            team
+            brand
+            community

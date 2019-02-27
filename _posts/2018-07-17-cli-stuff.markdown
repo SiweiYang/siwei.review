@@ -1,0 +1,36 @@
+---
+layout:     single
+title:      "Make CLI great again"
+subtitle:   "command line utilities"
+navcolor:   "invert"
+date:       2018-07-17
+author:     "Siwei"
+catalog:    true
+tags:
+    - Coding
+    - System admin
+---
+
+
+> common CLI tools you may need
+
+### admin
+
++ `!!` and its derivatives
++ `column -t` or `alias ct='column -t'`
++ `sudo lsof -Pni` `sudo netstat -nutlp`
++ `nohup`
++ `ssh -ND PORT` for creating a SOCK
++ `ProxyCommand` in ssh config
++ `ps aux | sort -nk 3` for CPU `ps aux | sort -nk 4` for MEM
++ `multitail`
++ `at` `atq` `atrm`
+
+### editing
+
++ sshfs
++ vim over scp
+
+### shells
+
++ `zsh` `fish`

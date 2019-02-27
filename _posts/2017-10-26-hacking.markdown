@@ -1,0 +1,18 @@
+---
+layout:     single
+title:      "Hacking"
+subtitle:   "how do we know what to do"
+navcolor:   "invert"
+date:       2017-10-26
+author:     "Siwei"
+catalog:    true
+tags:
+    - Philosophy
+    - Problem Solving
+---
+
+
+> TL; DR
+
+
+## A fruitless hackathon
